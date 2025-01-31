@@ -11,6 +11,10 @@ DeraSewa is an platform that helps users to host or list their rooms and apartme
 - Browse available rooms and apartments.
 - Streamlined process with no brokers involved.
 
+## Connect with us
+- Facebook:
+- Linkedin:
+
 <p align="center">
   &copy; 2024 - Present <a href="https://derasewa.com" target="_blank">DeraSewa</a>
 </p>
