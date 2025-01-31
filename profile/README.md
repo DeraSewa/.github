@@ -12,5 +12,5 @@ DeraSewa is an platform that helps users to host or list their rooms and apartme
 - Streamlined process with no brokers involved.
 
 <p align="center">
-  &copy; 2024 - Present <a href="https://derasewa.com" target="_self">DeraSewa</a>
+  &copy; 2024 - Present <a href="https://derasewa.com" target="_blank">DeraSewa</a>
 </p>
