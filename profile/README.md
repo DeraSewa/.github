@@ -1,12 +1,12 @@
 # DeraSewa
 
 <p align="center">
-  <img src="https://your-logo-link-here.png" alt="DeraSewa Logo" />
+  <img src="[https://your-logo-link-here.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuesys.com%2Fassets%2Fwebsite%2Fimages%2F&psig=AOvVaw0B-eKuy4iDWuVGC7SuvgA_&ust=1738399487154000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiUhPPIn4sDFQAAAAAdAAAAABAE)" alt="DeraSewa Logo" />
 </p>
 
-DeraSewa is a platform designed to facilitate the listing and hosting of rooms, apartments, and other properties. It enables users to effortlessly find and secure accommodations, simplifying the process in bustling urban environments and eliminating the need for brokers.
+DeraSewa is an platform that helps users to host or list their rooms and apartments easily. Users can easily browse rooms through the app, making the process hassle-free in a bustling city, without dealing with brokers.
 
-## Key Features
-- **Effortless Hosting**: Easily list rooms, apartments, and other properties.
-- **User-Friendly Browsing**: Seamlessly browse available accommodations.
-- **Broker-Free Transactions**: Conduct transactions without intermediaries for a streamlined experience.
+## Features
+- Host or list rooms and apartments effortlessly.
+- Browse available rooms and apartments.
+- Streamlined process with no brokers involved.
