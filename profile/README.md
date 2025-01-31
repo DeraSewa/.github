@@ -12,8 +12,8 @@ DeraSewa is an platform that helps users to host or list their rooms and apartme
 - Streamlined process with no brokers involved.
 
 ## Connect with us
-- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"> [Facebook]()
-- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"> [Linkedin]()
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Twitter" width="40" height="40"> [Facebook]()
+<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"> [Linkedin]()
 
 <p align="center">
   &copy; 2024 - Present <a href="https://derasewa.com" target="_blank">DeraSewa</a>
